@@ -1,1 +1,1 @@
-# Credit-Card-Default-Prediction-Model
+# Credit Card Default Prediction Model
